@@ -11,5 +11,4 @@ object ArithmeticMeanCalculator{
     val num2=10
     val result=meanRounded(num1,num2)
     println(s"The arithmetic mean of $num1 and $num2, rounded to two decimal places, is $result")
-  }
 }
