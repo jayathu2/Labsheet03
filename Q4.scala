@@ -9,7 +9,7 @@ object SumEvenNumbers{
     def SumEvenNumbers(numbers: List[Int]): Int={
         numbers.filter(_%2==0).sum
 
-    }
+    }//oooo
 
 
 
